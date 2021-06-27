@@ -1,4 +1,4 @@
-package com.cp.topic1.reversearray;
+package com.cp.topic1.array.reversearray;
 
 public class ReverseArray {
 	public void reverseWithforLoop(int[] arr) {
